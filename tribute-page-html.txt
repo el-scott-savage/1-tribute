@@ -1,0 +1,125 @@
+<DOCTYPE html>
+<html>
+<head>
+<style type= "text/css" href= "./style.txt"
+<!--lss-revise code to work outside of the codepen.io.-->
+
+<body id="main";>
+  <div id="img-div";>
+    <h1 id="title" class="circuitboard";>Dr. Mae Carol Jemison</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Mae_Jemison_2013.jpg"   id="image" class="responsive-img" alt="Mae Jemison headshot";>
+    <figcaption id="img-caption";>Mae Jemison, c.2013</figcaption>  
+  </div>
+
+<div id="button-bar" class="circuitboard";>
+    <h2>A Lifetime of Contribution</h2>
+    <a href="#medical-history-here"><button type="button" id="medical" class="button";>Medical Career</button></a>
+    <a href="#nasa-career-here"><button type="button" id="nasa" class="button";>Nasa Career</button></a>
+    <a href="#social-impact-here"><button type="button" id="social" class="button";>Social Impact</button></a>
+  </div>
+  
+<div id="subject-content";>
+<main>
+  <p id="tribute-info" class="topic-paragraphs";>Excerpt from<a href="https://en.wikipedia.org/wiki/Mae_Jemison";>Wikipedia:</a>
+A Mae Carol Jemison (born October 17, 1956) is an American engineer, physician, and former NASA astronaut. She became the first black woman to travel into space when she served as a mission specialist aboard the Space Shuttle Endeavour. Jemison joined NASA's astronaut corps in 1987 and was selected to serve for the STS-47 mission, during which she orbited the Earth for nearly eight days on September 12–20, 1992.
+Born in Alabama and raised in Chicago, Jemison graduated from Stanford University with degrees in chemical engineering as well as African and African-American studies. She then earned her medical degree from Cornell University. Jemison was a doctor for the Peace Corps in Liberia and Sierra Leone from 1983 until 1985 and worked as a general practitioner. In pursuit of becoming an astronaut, she applied to NASA.
+Jemison left NASA in 1993 and founded a technology research company. She later formed a non-profit educational foundation and through the foundation is the principal of the 100 Year Starship project funded by DARPA. Jemison also wrote several books for children and appeared on television several times, including in a 1993 episode of Star Trek: The Next Generation. She holds several honorary doctorates and has been inducted into the National Women's Hall of Fame and the International Space Hall of Fame.
+</p>
+  </main>
+  </div>
+  
+  <h3 id="medical-history-here" class="circuitboard";>Medical Career</h3>
+  
+  <div class="container-med";>
+
+    <div class="med-image">
+   <wrap> <img id="medical-img" src="https://hackaday.com/wp-content/uploads/2018/02/doctor-jemison.png"  class="responsive-img" alt="Dr. Jemison on the phone at her desk.";><figcaption>Dr. Jemison at work.</figcaption></wrap>
+    
+  </div>
+  
+  <div class="med-list">
+    <ul id="med-list">
+      <li>Chemical Engineer</li>
+      <li>Medical Doctor</li>
+      <li>Recipient of Several Honorary Doctorates</li>
+    </ul>  
+    </div>
+  
+  <div class="med-text">
+    <p>Lorem ipsum dolor sit amet, <b class="stand-out";>Vital Contributor. </b>Consectetur adipiscing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Faucibus in ornare quam viverra orci. <b class="stand-out";>Humanitarian. </b>Purus viverra accumsan in nisl nisi. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. At auctor urna nunc id cursus metus aliquam. Nunc consequat interdum varius sit amet mattis vulputate enim. <b class="stand-out";>Role-Model. </b>Cras sed felis eget velit aliquet sagittis id consectetur purus. At consectetur lorem donec massa sapien faucibus et  Lacinia at quis risus sed vulputate. Accumsan sit amet nulla facilisi morbi. Volutpat est velit egestas dui id ornare arcu odio ut. <b class="stand-out";>Excellence. </b> Tempor orci eu lobortis elementum nibh. Elementum curabitur vitae nunc sed velit. Et netus et malesuada fames ac. Parturient montes nascetur ridiculus mus. Scelerisque varius morbi enim nunc. Malesuada proin libero nunc  consequat interdum varius. Pulvinar mattis nunc sed blandit. Vel pharetra vel turpis nunc eget. At quis risus sed vulputate odio ut enim.</p></div>
+  
+  
+  <div class="med-link"><a href="https://www.mdlinx.com/article/on-this-day-in-medical-history-mae-jemison-physician-pioneer/lfc-2830" id="medical-link">MDLinx Article</a></div>
+ 
+</div>
+
+   <h3 id="nasa-career-here" class="circuitboard";>Nasa Career</h3>
+    
+ <div class="container-nasa";>
+
+    <div class="nasa-image">
+   <wrap> <img id="nasa-img" src="https://media.wzzm13.com/assets/WZZM/images/b4a19638-511f-48e1-aae3-d1c7c00df0b0/b4a19638-511f-48e1-aae3-d1c7c00df0b0_1920x1080.jpg"  class="responsive-img" alt="Dr. Jemison floating in the space shuttle.";><figcaption>Astronaut Jemison at the monitors.</figcaption></wrap>
+    
+  </div>
+  
+  <div class="nasa-list">
+    <ul id="nasa-list">
+      <li>Astronaut</li>
+      <li>Research Scientist</li>
+      <li>The First Black Woman to Travel in Space</li>
+    </ul>  
+    </div>
+  
+  <div class="nasa-text">
+    <wrap><p>Lorem <b class="stand-out";>Exceptional Human </b></text-transform>ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus in ornare quam viverra orci. Purus viverra accumsan in nisl nisi. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. <b class="stand-out";>Contribution to Society </b>At auctor urna nunc id cursus metus aliquam. Nunc consequat interdum varius sit amet mattis vulputate enim. Cras sed felis eget velit aliquet sagittis id consectetur purus. <b class="stand-out";>Historic Achievement </b>At consectetur lorem donec massa sapien faucibus et  Lacinia at quis risus sed vulputate. Accumsan sit amet nulla facilisi morbi. Volutpat est velit egestas dui id ornare arcu odio ut. Tempor orci eu lobortis elementum nibh. Elementum curabitur vitae nunc sed velit. Et netus et malesuada fames ac. <b class="stand-out";>Beyond. </b>Parturient montes nascetur ridiculus mus. Scelerisque varius morbi enim nunc. Malesuada proin libero nunc  consequat interdum varius. Pulvinar mattis nunc sed blandit. Vel pharetra vel turpis nunc eget. At quis risus sed vulputate odio ut enim.</p></div>
+  
+
+  <div class="nasa-link"><a href="https://www.mdlinx.com/article/on-this-day-in-medical-history-mae-jemison-physician-pioneer/lfc-2830" id="nasa-link">Space.com Biography</a></wrap></div>
+
+
+</div>
+
+<h3 id="social-impact-here" class="circuitboard";>Social Impact</h3> 
+ 
+<div class="container-social";>
+ <div class="social-image">
+   <img id="social-image" src= "https://www.sabcnews.com/wp-content/uploads/2018/12/SABC-News-Mae-Jemison-@UNFCCTwitter.jpg" id="social-img2" class="responsive-img" alt="Dr. Jemison speaking at an international climate change symposium";> 
+   <figcaption>Dr. Jemison speaking at the 2018 UN Climate Change Conference. </figcaption>
+  </div>
+  
+  <div class="social-list">
+    <ul id="social-list">
+      <li>Speaker</li>
+      <li>Founder</li>
+      <li>Author</li>
+      <li>Truly Remarkable Human</li>
+    </ul>  
+    </div> 
+  <div class="social-text";>
+    <p>Lorem ipsum dolor. <b class="stand-out";>Leader. </b>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis imperdiet proin fermentum leo vel orci porta non pulvinar. <b class="stand-out";>Trailblazer </b>Euismod nisi porta lorem mollis. Vulputate enim nulla aliquet porttitor lacus luctus. Bibendum est ultricies integer quis auctor elit sed vulputate mi. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. Aliquam sem fringilla ut morbi tincidunt. <b/ class="stand-out";>Influencer. </b>Porta non pulvinar neque laoreet. Imperdiet proin fermentum leo vel orci porta non pulvinar neque. Augue interdum velit euismod in. Semper quis lectus nulla at volutpat diam. Egestas dui id ornare arcu odio ut. <b class="stand-out";>Celebrity. </b>Justo eget magna fermentum iaculis eu non diam phasellus. Morbi tristique senectus et netus et malesuada fames. Facilisis volutpat est velit egestas dui id. Lacus luctus accumsan tortor posuere ac ut consequat. Vel quam elementum pulvinar etiam non quam lacus. Arcu non odio euismod lacinia at quis risus sed vulputate. <b class="stand-out";>Extraordinary</b> Faucibus ornare suspendisse sed nisi lacus sed viverra tellus.
+
+
+</p></div>
+    
+<div class="social-link";> 
+    <a href="https://jemisonfoundation.org/about/" id="social-link";>The Dorothy Jemison Foundation</a>
+</div>
+</div>
+  
+<div id="final-img" class="circuitboard";>
+   <p id="jemison-closer";>“Sciences provide an understanding of a universal experience, Arts are a universal understanding of a personal experience... they are both a part of us and a manifestation of the same thing... the arts and sciences are avatars of human creativity” ~Mae Jemison</p>
+   <img src= "http://jemisonfoundation.org/wp-content/uploads/2017/03/dr.j.jpg" id="social-img" class="responsive-img" alt= "Mae's headshot for the Dorothy Jemison Foundation";>
+  <a href="https://www.womenshistory.org/education-resources/biographies/mae-jemison" id="tribute-link" target="_blank"><button type="button" class="button";>Womenshistory.org Biography</button>
+  </a>
+  
+
+  <a href="#main";><button type="button" class="button";>Return to Top</button></a>
+
+                                                                                            </div>
+  
+</div>
+
+</body>
+</html>
+
+
