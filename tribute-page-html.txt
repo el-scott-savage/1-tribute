@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html>
 <head>
-<style type= "text/css" href= "./style.txt"
+<style type= "text/css" href= "./style.txt" >
 <!--lss-revise code to work outside of the codepen.io.-->
 
 <body id="main";>
